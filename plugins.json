@@ -90,14 +90,14 @@
     {
         "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimeSailProvider.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "AnimeSailProvider",
         "internalName": "AnimeSailProvider",
         "authors": [
             "Miku"
         ],
         "description": "AnimeSail \u2014 Streaming Anime, Donghua Subtitle Indonesia",
-        "fileSize": 66988,
+        "fileSize": 42911,
         "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
         "language": "id",
         "tvTypes": [
@@ -107,7 +107,7 @@
         ],
         "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2b77b9936cbe733fe9748230a045135818ddc6de7bdc53cf1ef167be729f832e"
+        "fileHash": "sha256-faa56d54de8e179aa209791e811ea3043c4a28cbf689d1fa4b1b8dbd57925019"
     },
     {
         "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimexinProvider.cs3",
