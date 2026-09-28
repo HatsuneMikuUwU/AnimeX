@@ -91,7 +91,7 @@ subprojects {
         
         // Utils & Core
         add("implementation", "me.xdrop:fuzzywuzzy:1.4.0")
-        add("implementation", "androidx.core:core-ktx:1.19.0")
+        add("implementation", "androidx.core:core-ktx:1.19.1")
     }
 }
 
